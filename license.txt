@@ -1,0 +1,11 @@
+Model Information:
+* title:	u_Д-421_651х651_h=2940mm_OBJ.obj
+* source:	https://sketchfab.com/3d-models/u--421-651651-h2940mm-objobj-7f9288d7d8e34adc9ac1101d77b5e145
+* author:	AVRORA Group (https://sketchfab.com/avroralepnina)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "u_Д-421_651х651_h=2940mm_OBJ.obj" (https://sketchfab.com/3d-models/u--421-651651-h2940mm-objobj-7f9288d7d8e34adc9ac1101d77b5e145) by AVRORA Group (https://sketchfab.com/avroralepnina) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
